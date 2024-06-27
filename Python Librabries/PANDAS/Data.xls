@@ -1,0 +1,7 @@
+,EID,Name,Age,Gender,Salary
+0,EMP01,Manasi,23,F,50000
+1,EMP02,Sakshi,25,NaN,30000
+2,EMP03,Ajay,NaN,M,NaN
+3,EMP01,Tanvi,26,F,35000
+4,EMP05,Viraj,25,M,NaN
+5,EMP06,Rohit,26,M,40000
